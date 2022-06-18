@@ -1,0 +1,378 @@
+<REAPER_PROJECT 0.1 "6.61/win64" 1655568641
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 0.5 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 6.49054715188746 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\Emmanuel Bégué\Desktop\noise_d_silence_start_end.mp4"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 5 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 8
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    UE1GRgMAAAAAAAAAAAgAAAAAAACAAAAA0AIAAJYBAAAAAPBBAQAAAF8AAAAAAA==
+  >
+  LOCK 1
+  <METRONOME 5 1
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 18 0
+  SELECTION2 18 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {B523543D-5750-4842-8A9C-16E3CB1F5F44}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {3E6D37E4-8E52-4AD4-93DB-8BF36660EEA5}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 0 "" 13 0 1 R {CCCDD079-ADFC-4A54-AA83-F657638DA0F5}
+  MARKER 1 18 "" 13 0 1 R
+  MARKER 1 16 "" 0 0 1 R {ABCB7963-F263-46F0-81EF-3D7270548494}
+  MARKER 2 32 "" 0 0 1 R {911E8F2B-38D3-4975-A369-5461F46042B3}
+  MARKER 3 48 "" 0 0 1 R {046712E1-7B03-4C62-8236-C8D93A4657F0}
+  MARKER 4 64 "" 0 0 1 R {6AFF290F-1762-4A76-BD9B-7D234BAC8DE3}
+  MARKER 5 80 "" 0 0 1 R {B8E64A7E-BE58-4AF2-8684-B99629D78215}
+  MARKER 6 96 "" 0 0 1 R {944C45FE-53D2-4943-841F-1085C58F3692}
+  MARKER 7 112 "" 0 0 1 R {C39181C2-16FC-4304-8938-E55FBA0F85D9}
+  MARKER 8 128 "" 0 0 1 R {196BEA87-F36E-475E-938A-BAD8899BEE93}
+  MARKER 9 144 "" 0 0 1 R {6D5D8F7E-361E-4B65-B1CA-A86BEA2AE2A0}
+  MARKER 10 160 "" 0 0 1 R {58886AC1-97C0-4285-94D3-87AE5A8B41F6}
+  MARKER 11 176 "" 0 0 1 R {6DE8B147-FAC4-4094-86B3-5979A679FB2E}
+  MARKER 12 192 "" 0 0 1 R {6557F0DB-9DCF-4A18-8AC3-0F5945F34B5F}
+  <PROJBAY
+  >
+  <TRACK {69EB7F4A-EA05-4302-8CBD-32DF15E5FD9B}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 1
+    REC 1 0 1 11 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {69EB7F4A-EA05-4302-8CBD-32DF15E5FD9B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 58 440 735 175
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS loser/WhiteNoise ""
+        -120 -12 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5D9DEAE7-0F96-44C5-ABFD-6ECCAE80F8E1}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B190CB22-20E3-4F77-92F4-C0AEBDD6D8D4}
+      IID 1
+      NAME 2022-06-18_18-03_untitled_01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0EE7CE7D-E378-47E3-808A-869EE59F6B8B}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "C:\Users\Emmanuel Bégué\Documents\REAPER Media\2022-06-18_18-03_untitled_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58557598-A36D-4250-8703-9B9C93F00EA9}
+      IID 1
+      NAME 2022-06-18_18-03_untitled_01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A914FAC-FA08-4D39-92E0-65CA1C190187}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "C:\Users\Emmanuel Bégué\Documents\REAPER Media\2022-06-18_18-03_untitled_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B6F09D69-8F28-4D07-8EFD-05E5834C8BC1}
+      IID 1
+      NAME 2022-06-18_18-03_untitled_01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6EF0A0D2-B3CE-4635-A4E3-2D81D6F17AF4}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "C:\Users\Emmanuel Bégué\Documents\REAPER Media\2022-06-18_18-03_untitled_01.wav"
+      >
+    >
+  >
+  <TRACK {E732BA5C-76D3-43E3-AE37-6B2B0DA7F4A5}
+    NAME Oscilloscope
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E732BA5C-76D3-43E3-AE37-6B2B0DA7F4A5}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 0 0
+    <FXCHAIN
+      WNDRECT 0 97 1295 886
+      SHOW 0
+      LASTSEL 2
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS misc/video_sample_peeker ""
+        1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {57A393AC-98CF-4CB2-8BD8-636A0336BB43}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
+          |//Decorative Oscilloscope with Blitter (requires JSFX video sample peeker)
+          |//@gmem=jsfx_to_video
+          |//@param 1:mode "mode" 0 0 2 0 1
+          |//@param 2:dotcount "point count" 1200 10 5000 400 10
+          |//@param 3:dotsize "point size" 4 2 40 20 1
+          |//@param 4:gain_db "gain (dB)" -6 -80 12 -12 1
+          |//@param 5:zoom_amt "blitter zoom" .27 -.5 1 .1 0.01
+          |//@param 6:fadespeed "blitter persist" .8 0 1 .1 0.01
+          |//@param 7:filter "blitter filter" 1 0 1 0 1
+          |//@param 8:fg_r "foreground R" 1 0 1 .5 .02
+          |//@param 9:fg_g "foreground G" 1 0 1 .5 .02
+          |//@param 10:fg_b "foreground B" 1 0 1 .5 .02
+          |//@param 11:bg_r "background R" 0 0 1 .5 .02
+          |//@param 12:bg_g "background G" 0 0 1 .5 .02
+          |//@param 13:bg_b "background B" 0 0 1 .5 .02
+          |//@param 14:cx "center X" .5 0 1 .5 .01
+          |//@param 15:cy "center Y" .5 0 1 .5 .01
+          |
+          |last_frame && fadespeed > 0 ? (
+          |  xo = project_w*zoom_amt*.25;
+          |  yo = project_h*zoom_amt*.25;
+          |  gfx_mode=filter>0?0x100:0;
+          |  xo < 0 ? gfx_blit(last_frame,0);
+          |  gfx_blit(last_frame,0,0,0,project_w,project_h,xo,yo,project_w-xo*2,project_h-yo*2);
+          |);
+          |gfx_set(bg_r,bg_g,bg_b,last_frame ? (1-fadespeed) : 1);
+          |gfx_a>.001 ? gfx_fillrect(0,0,project_w,project_h);
+          |
+          |bufplaypos = gmem[0];
+          |bufwritecursor = gmem[1];
+          |bufsrate = gmem[2];
+          |bufstart = gmem[3];
+          |bufend = gmem[4];
+          |nch = gmem[5];
+          |gain = 10^(gain_db*(1/20));
+          |
+          |dt=max(bufplaypos - project_time,0);
+          |dt*bufsrate < dotcount ? underrun_cnt+=1;
+          |rdpos = bufwritecursor - ((dt*bufsrate - dotcount)|0)*nch;
+          |rdpos < bufstart ? rdpos += bufend-bufstart;
+          |
+          |gfx_set(fg_r,fg_g,fg_b,1);
+          |
+          |function getpt()
+          |(
+          |  l = gmem[rdpos]; r = gmem[rdpos+1];
+          |  (rdpos += nch)>=bufend ? rdpos=bufstart;
+          |);
+          |i=0;
+          |
+          |mode==2 ? (
+          |  loop(dotcount,
+          |    getpt();
+          |    ang = atan2(l,r); dist = sqrt(sqr(l)+sqr(r));
+          |    xp = cx*project_w + ((cos(ang)*dist*gain)*project_h-dotsize)*.5;
+          |    yp = ((cy*2+sin(ang)*dist*gain)*project_h-dotsize)*.5;
+          |    gfx_fillrect(xp,yp, dotsize,dotsize);
+          |  );
+          |) : mode == 1 ? (
+          |  loop(dotcount,
+          |    getpt();
+          |    yp = project_h * (cy - .5 + i / dotcount);
+          |    xp = project_w * (cx + (l+r)*.25*gain);
+          |    gfx_fillrect(xp-dotsize*.5,yp-dotsize*.5, dotsize,dotsize);
+          |    i+=1;
+          |  );
+          |
+          |) : (
+          |  loop(dotcount,
+          |    getpt();
+          |    xp = project_w * (cx - 0.5 + i / dotcount);
+          |    yp = project_h * (cy + (l+r)*.25*gain);
+          |    gfx_fillrect(xp-dotsize*.5,yp-dotsize*.5, dotsize,dotsize);
+          |    i+=1;
+          |  );
+          |);
+          |
+          |gfx_img_free(last_frame);
+          |last_frame=gfx_img_hold(-1);
+        >
+        CODEPARM 0 2340 17 0 -0.1 0.06 1 0.64 0.18 0.08 0 0 0 0.5 0.75 0 0 0 0 0 0 0 0 0
+      >
+      PRESETNAME "Synthesis: Decorative Oscilloscope with Blitter (requires JSFX video sample peeker)"
+      FLOATPOS 0 0 0 0
+      FXID {ADB34CE6-00C3-4D29-A247-4ABBD96B00CF}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VIDEO_EFFECT "Video processor" ""
+        <CODE
+          |// Text overlay
+          |#text="        Test File
+          |(noise/silence)"; // set to string to override
+          |font="Blair ITC Medium";
+          |
+          |//@param1:size 'text height' 0.05 0.01 0.2 0.1 0.001
+          |//@param2:ypos 'y position' 0.95 0 1 0.5 0.01
+          |//@param3:xpos 'x position' 0 0 1 0.5 0.01
+          |//@param4:border 'border' 0 0 1 0.5 0.01
+          |//@param5:fgc 'text bright' 1.0 0 1 0.5 0.01
+          |//@param6:fga 'text alpha' 1.0 0 1 0.5 0.01
+          |//@param7:bgc 'bg bright' 0.75 0 1 0.5 0.01
+          |//@param8:bga 'bg alpha' 0.5 0 1 0.5 0.01
+          |//@param10:ignoreinput 'ignore input' 0 0 1 0.5 1
+          |
+          |input = ignoreinput ? -2:0;
+          |project_wh_valid===0 ? input_info(input,project_w,project_h);
+          |gfx_a2=0;
+          |gfx_blit(input,1);
+          |gfx_setfont(size*project_h,font);
+          |strcmp(#text,"")==0 ? input_get_name(-1,#text);
+          |gfx_str_measure(#text,txtw,txth);
+          |yt = (project_h- txth*(1+border*2))*ypos;
+          |gfx_set(bgc,bgc,bgc,bga);
+          |gfx_fillrect(0, yt, project_w, txth*(1+border*2));
+          |gfx_set(fgc,fgc,fgc,fga);
+          |gfx_str_draw(#text,xpos * (project_w-txtw),yt+txth*border);
+        >
+        CODEPARM 0.127 0.28 0.49 0.36 0.98 1 0.75 0 0.18 0 0 0 0 0.5 0.75 0 0 0 0 0 0 0 0 0
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C44BA872-24D2-4678-BB72-F64A5CAB4256}
+      WAK 0 0
+    >
+  >
+  <EXTENSIONS
+  >
+>
