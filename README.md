@@ -17,9 +17,9 @@ Requires ffmpeg, Python3. Usage is as follows:
 
 [silencedetect filter](https://ffmpeg.org/ffmpeg-filters.html#silencedetect) accepts a noise level in dB and a minimum duration in seconds.
 
-YOURINPUTFILE is the name of your input file ('noise_a.mp4' for example).
+YOURINPUTFILE is the name of your input file (video or audio file: 'noise_a.mp4' for example).
 
-COMMANDFILENAME is the name of the file you want to write the command to. After the execution of the above command, it will contain an ffmpeg command such as (for example):
+COMMANDFILENAME is the name of the file you want to write the ffmpeg command to. After the execution of the above command, it will contain an ffmpeg command such as (for example):
 
     ffmpeg -i noise_a.mp4 -vf "select='between(t,0,2.00093)+between(t,4.00009,6.00256)+between(t,7.99961,9.99989)+between(t,12.0001,13.9998)',setpts=N/FRAME_RATE/TB" -af "aselect='between(t,0,2.00093)+between(t,4.00009,6.00256)+between(t,7.99961,9.99989)+between(t,12.0001,13.9998)',asetpts=N/SR/TB" outfile_noise_a.mp4
 
