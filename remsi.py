@@ -2,23 +2,25 @@ import sys, re
 
 selectionsList = []
 timeSelection = "between(t,0,"
+filename = inputFile = end = start = None
 
 # read standard input once, line by line
 for line in sys.stdin:
-	elts = line.split(" ")
-	# find the input filename
-	filename = re.search(r"Input .+ from '(.+)':", line)
 	# detect a start of silence, which is an end of our selection
 	end = re.search(r"silence_start: (\d+\.?\d+)", line)
 	# detect an end of silence, which is a start of our selection
 	start = re.search(r"silence_end: (\d+\.?\d+)", line)
 
-	if filename:
-		inputFile = filename.group(1)
+	if filename is None:
+		# find the input filename
+		filename = re.search(r"Input .+ from '(.+)':", line)
+	else:
+		if inputFile is None:
+			inputFile = filename.group(1)
 
-	if start:
+	if start is not None:
 		timeSelection = "between(t," + start.group(1) + ","
-	if end:
+	if end is not None:
 		timeSelection += end.group(1) + ")"
 		selectionsList.append(timeSelection)
 
